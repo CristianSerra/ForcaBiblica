@@ -1,0 +1,17 @@
+SITE SIMPLES - MENU DE JOGOS
+
+Arquivos:
+- index.html: página inicial com menu central
+- forca-biblica.html: descrição de Força Bíblica
+- bible-hangman.html: descrição de Bible Hangman
+- the-feudal-lord.html: descrição de The Feudal Lord
+- style.css: estilos compartilhados
+
+IMAGEM DE FUNDO:
+Coloque sua imagem na mesma pasta dos arquivos HTML e CSS, com o nome:
+fundo.jpg
+
+Se a imagem tiver outro nome ou extensão, altere `url("fundo.jpg")` no arquivo style.css.
+
+Para testar:
+Abra o arquivo index.html no navegador.
